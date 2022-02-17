@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn (the right way), work as a programmer and help others :)
 - 🌱 I’m currently learning Python, Kotlin, JavaScript and Swift.
 - 💞️ I’m looking to collaborate on junior projects. I need to improve my skills!
-- 📫 You can contact me under info@framedmemories.es. 
+- 📫 You can contact me under software@framedmemories.es. 
 
 <!---
 RichterX/RichterX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
