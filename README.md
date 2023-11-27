@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RichterX
+- 👋 Hi, I’m Pedro Luque
 - 👀 I’m interested in learn (the right way), work as a programmer and help others :)
 - 🌱 I’m currently learning Python, Kotlin, JavaScript and Swift.
 - 💞️ I’m looking to collaborate on junior projects. I need to improve my skills!
